@@ -1,6 +1,7 @@
 魔改b250m 9100f 无核显
 
 opencore version 0.7.0
+
 主板	ASUS PRIME B250M-PLUS-已魔改
 
 处理器	Intel(R) Core(TM) i3-9100f-无核显
