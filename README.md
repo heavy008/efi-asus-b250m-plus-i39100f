@@ -18,6 +18,8 @@ opencore version 0.8.2
 
 系统版本 12.5.1
 
+三码已配置，可以另外自己生成
+
 主板的设置参考网站
 https://www.toutiao.com/article/7044339067416314406/?tt_from=copy_link&utm_campaign=client_share&timestamp=1653271628&app=news_article_social&utm_source=copy_link&utm_medium=toutiao_ios&use_new_style=1&req_id=202205231007080102091681442494A03A&share_token=24C8C71B-4738-4DF8-B088-2D8E9E7DC2AB&group_id=7044339067416314406&wid=1653271653101
 
